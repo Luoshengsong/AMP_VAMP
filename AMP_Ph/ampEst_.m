@@ -1,4 +1,5 @@
 function [estFin,optFin,estHist] = ampEst_(y, A, opt, L, xvar_all, sparsity)
+% cite the work VAMP of Rangan
 % ampEst:  AMP estimation algorithm ... a basic implementation
 %
 % DESCRIPTION:
